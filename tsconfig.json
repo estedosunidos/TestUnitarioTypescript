@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "esModuleInterop": true,
+      // Otros parámetros de configuración...
+    },
+    "include": [
+      "src/**/*.ts",
+      "test/**/*.ts"
+    ]
+  }
+  
